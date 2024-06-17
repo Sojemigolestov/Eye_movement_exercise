@@ -5,7 +5,7 @@
 
 # Project description
 
-Mouse tracking eye movement created with HTML, CSS and JS, that renders two eyes on the center of the screen that follow the mouse movements and track it's position across the page.
+Mouse tracking eye movement created with HTML, CSS and JS, that renders two eyes on the center of the screen that follow the mouse movements and track its position across the page.
 
 # How to run
 
